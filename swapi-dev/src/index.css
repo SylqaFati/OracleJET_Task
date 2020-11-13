@@ -1,0 +1,57 @@
+
+  @import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+body {
+  background-image: url('./img/darth.jpg');
+  background-size:cover;
+  background-attachment:fixed;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    
+    
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#Tbl{
+  margin-bottom:100px;
+}
+
+.search{
+  top: 40px;
+
+}
+.header{
+  /* background-image: url("./img/Star-logo.png");
+  background-size: 50px; */
+
+}
+.tbody{
+  
+  size: 100px;
+  bottom: 100px;
+/* font-family:"font-family: 'Star Jedi', arial;"; */
+font-family: 'Star Jedi', arial;
+src: url("./font/star-jedi_[allfont.net].ttf");
+text-shadow:  3px 3px 3px #aaa;
+  background-color: white;
+  opacity: 0.90;
+  color:white;
+
+
+}
+.headerTbl{
+ 
+ box-shadow: 0.25em 0.25em  0.25em  rgba(0, 0, 0, 0.4);
+
+
+
+  
+}
